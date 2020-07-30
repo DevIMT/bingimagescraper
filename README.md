@@ -1,4 +1,4 @@
-# bingimagescraper
+# BingImageScraper
 A Selenium web scraper script which retrieves photos from Bing's image search
 
 Based on three criteria inputted by the user, the program will create a directory, retrieve 140 .jpg images from Bing's image search and place them in the newly created directory.
